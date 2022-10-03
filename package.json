@@ -1,0 +1,27 @@
+{
+  "name": "learning-json-web-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "listen": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ishan-Wijesingha99/Learning-JSON-Web-Token.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ishan-Wijesingha99/Learning-JSON-Web-Token/issues"
+  },
+  "homepage": "https://github.com/Ishan-Wijesingha99/Learning-JSON-Web-Token#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
